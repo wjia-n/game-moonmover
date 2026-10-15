@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'moonmoverpopcorn',
   tip2Id: 'moonmoverpretzel',
-  tip1Label: '💛 Buy me a popcorn',
-  tip2Label: '💛 Buy me a pretzel',
+  tip1Label: '💛 Moon Mover popcorn',
+  tip2Label: '💛 Moon Mover pretzel',
 );
